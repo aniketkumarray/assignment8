@@ -1,0 +1,7 @@
+import math
+import math
+n=int(input("enter the number whos factorial you want to find"))
+print(math.factorial(n))
+ output:
+ enter the number whos factorial you want to find 5
+120

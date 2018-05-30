@@ -1,0 +1,8 @@
+import math
+n=int(input("enter the 1st number whos hcf you want to find"))
+m=int(input("enter the 2nd number whos hcf you want to find"))
+print(math.gcd(n,m))
+output:
+enter the 1st number whos hcf you want to find7
+enter the 2nd number whos hcf you want to find35
+7
